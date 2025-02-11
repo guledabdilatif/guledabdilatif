@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **guleabdilatif@gmail.com**
 
-- 📄 Know about my experiences [https://abdiladif-mohamud.netlify.app/](https://abdiladif-mohamud.netlify.app/)
+- 📄 Know about my experiences [https://guleid.vercel.app/](https://guleid.vercel.app/)
 
 - ⚡ Fun fact **The term "bug" in the context of programming originated in 1947 when Grace Hopper found an actual moth inside a computer, causing a malfunction. She taped the moth into her logbook, coining the term "debugging."**
 
