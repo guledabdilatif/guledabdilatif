@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abdiladif Mohamud</h1>
-<h3 align="center">A Passionate Frontend Developer from Kenya</h3>
+<h3 align="center">A Passionate Software Engineer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guledabdilatif&label=Profile%20views&color=0e75b6&style=flat" alt="guledabdilatif" /> </p>
 
-- 🔭 I’m currently working on **E-commerce website**
+- 🔭 I’m currently working on **Asset Management System**
 
 - 🌱 I’m currently learning **React native**
 
-- 👯 I’m looking to collaborate on **Netflix clone**
-
 - 🤝 I’m looking for help with **Backend development**
 
-- 👨‍💻 All of my projects are available at [https://abdiladif-mohamud.netlify.app/](https://abdiladif-mohamud.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://guleid.vercel.app/](https://guleid.vercel.app/)
 
 - 💬 Ask me about **javascript**
 
